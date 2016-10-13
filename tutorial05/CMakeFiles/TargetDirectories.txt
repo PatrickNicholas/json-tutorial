@@ -1,0 +1,2 @@
+/mnt/d/WorkSpace2016/json-tutorial/tutorial05/CMakeFiles/leptjson.dir
+/mnt/d/WorkSpace2016/json-tutorial/tutorial05/CMakeFiles/leptjson_test.dir
